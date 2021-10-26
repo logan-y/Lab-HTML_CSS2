@@ -12,10 +12,10 @@ h1 {
 }
 
 footer {
-    position: center;
+    position: fixed center;
     height: 10vh;
     background-color: #222222;
-    
+    bottom: 0px;
     width: 80%;
     margin: 0 auto;
 }
